@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "CSS Viewer Pro",
   "version": "1.0",
+  "author": "Gérald Bel1n",
   "description": "Survolez les éléments pour inspecter rapidement leurs styles CSS.",
 
   "permissions": ["activeTab", "scripting", "storage"],
